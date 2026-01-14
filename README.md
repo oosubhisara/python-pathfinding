@@ -2,7 +2,7 @@
 
 Pathfinding using Python and PyGame
 
-![Screenshot](python-pathfinding-screenshot.png)
+<img src="python-pathfinding-screenshot.png" alt="screenshot" width="500" />
 
 ## Dependencies
 - Python 3
